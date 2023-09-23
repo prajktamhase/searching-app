@@ -22,7 +22,7 @@ function App() {
 
     return (
         <>
-            <h1 className="text-center">Contact baba </h1>
+            <h1 className="text-center">Search Machanisum🔍 </h1>
             <input type="text" placeholder="search" className="searchbar"
                 value={searchTerm}
                 onChange={(e) => { setSearchTerm(e.target.value) }} />
